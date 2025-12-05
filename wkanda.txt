@@ -2,4 +2,8 @@ git status
 git add .
 git commit
 git branch
+git remote -add orgin
 git push origin main 
+
+conda create -p venv python=3.X
+conda activate venv
