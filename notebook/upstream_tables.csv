@@ -1,0 +1,11 @@
+table_id,table_name,record_count,dq_score,schema_changes,anomalies
+1,Upstream_Table_1,5218,0.9449295619658151,1,None
+2,Upstream_Table_2,9958,0.9395035374953653,1,Outlier Surge
+3,Upstream_Table_3,5389,0.7452152631896288,0,None
+4,Upstream_Table_4,3327,0.8524596330222156,1,None
+5,Upstream_Table_5,9004,0.9087438420372645,0,Null Spike
+6,Upstream_Table_6,3931,0.9575076414441159,0,Outlier Surge
+7,Upstream_Table_7,8777,0.7977876715605654,1,Outlier Surge
+8,Upstream_Table_8,1197,0.7660723142696645,1,Null Spike
+9,Upstream_Table_9,8125,0.9133448597314053,0,Null Spike
+10,Upstream_Table_10,2930,0.9428503138419146,1,Outlier Surge

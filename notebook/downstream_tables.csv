@@ -1,0 +1,11 @@
+table_id,table_name,record_count,dq_score,dependency_depth,impacted_kpis
+11,Downstream_Table_11,1262,0.9101073489918314,4,1
+12,Downstream_Table_12,7287,0.9539983426714918,2,5
+13,Downstream_Table_13,9815,0.9568972875634277,1,2
+14,Downstream_Table_14,3049,0.821352438136657,3,8
+15,Downstream_Table_15,6423,0.9663310296282879,1,3
+16,Downstream_Table_16,5548,0.9552785346302538,1,0
+17,Downstream_Table_17,4108,0.9806904982662843,2,3
+18,Downstream_Table_18,8158,0.9356021953341831,4,0
+19,Downstream_Table_19,8400,0.9006964764142685,2,4
+20,Downstream_Table_20,4170,0.8742059864309364,2,3

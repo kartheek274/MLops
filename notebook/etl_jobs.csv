@@ -1,0 +1,21 @@
+job_id,job_name,system,domain,environment,criticality,status,last_run_time,run_duration,sla_breach,affected_records,failure_rate
+1,ETL_Job_1,Loans,Customer,prod,Medium,Success,2023-01-01,27.928341098954256,False,5450,0.08076723421160817
+2,ETL_Job_2,Core Banking,Customer,dev,High,Success,2023-01-02,23.7652260501504,True,1663,0.012978449421796313
+3,ETL_Job_3,Loans,Accounts,dev,Medium,Success,2023-01-03,14.918467104525172,False,9721,0.05078308278686894
+4,ETL_Job_4,Loans,Accounts,prod,Medium,Success,2023-01-04,40.9964697578482,False,5592,0.04937521256772024
+5,ETL_Job_5,Core Banking,Customer,prod,Medium,Success,2023-01-05,28.22267878729345,False,7392,0.13926085456795767
+6,ETL_Job_6,Core Banking,Customer,dev,Medium,Failed,2023-01-06,25.896166913136994,False,1306,0.1424541179848884
+7,ETL_Job_7,Loans,Customer,test,Medium,Success,2023-01-07,41.79716344700701,False,6776,0.02961738599067998
+8,ETL_Job_8,Payments,Transactions,prod,Medium,Success,2023-01-08,21.017920605443216,False,5864,0.19954809700978837
+9,ETL_Job_9,Loans,Transactions,test,Medium,Success,2023-01-09,38.347954192304286,False,9474,0.053356202855057
+10,ETL_Job_10,Loans,Transactions,test,High,Success,2023-01-10,32.96561384328971,False,7526,0.1953229911665306
+11,ETL_Job_11,Loans,Accounts,test,Low,Failed,2023-01-11,19.62170123484518,True,8901,0.08220740266364626
+12,ETL_Job_12,Loans,Transactions,prod,Medium,Success,2023-01-12,29.241962549718146,False,5575,0.006610146580109677
+13,ETL_Job_13,Core Banking,Accounts,test,Medium,Failed,2023-01-13,39.72963533755787,False,5530,0.0690142496053366
+14,ETL_Job_14,Loans,Accounts,prod,Medium,Success,2023-01-14,37.95595463895942,False,4413,0.12687026894027276
+15,ETL_Job_15,Payments,Transactions,test,Medium,Success,2023-01-15,44.95434252883474,False,3748,0.13614109031095337
+16,ETL_Job_16,Core Banking,Accounts,dev,Medium,Success,2023-01-16,33.3818125199332,False,663,0.10618691666342728
+17,ETL_Job_17,Payments,Transactions,dev,Medium,Failed,2023-01-17,63.72296253626673,False,1998,0.08955663291461834
+18,ETL_Job_18,Payments,Transactions,prod,Low,Success,2023-01-18,20.79609194932624,False,7994,0.11057861781426559
+19,ETL_Job_19,Payments,Customer,dev,Low,Success,2023-01-19,26.013616099847987,False,1495,0.11853934477587871
+20,ETL_Job_20,Payments,Transactions,dev,Medium,Success,2023-01-20,29.39135912525254,False,3304,0.01617066526654305
