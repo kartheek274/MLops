@@ -1,0 +1,13 @@
+prefix=C:/kartheek/Krish/myenv/Library
+exec_prefix=C:/kartheek/Krish/myenv/Library
+libdir=C:/kartheek/Krish/myenv/Library/lib
+sharedlibdir=C:/kartheek/Krish/myenv/Library/lib
+includedir=C:/kartheek/Krish/myenv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
