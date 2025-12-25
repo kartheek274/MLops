@@ -1,0 +1,29 @@
+docker
+workerfloe
+ecr
+imuser
+ec2 
+
+create virtual environment
+requirements.txt
+.gitignore // repository for file which should not be taken to github
+  venv
+  .env
+readme // all info about the project
+.github/workflows // focusing on requirements, deployments for that autions are required
+network_data //dataset
+notebooks 
+networksecurity //__init__.py to create package
+  constant
+  entity
+  logging
+  exception
+  compoents
+  pipeline
+  utlis
+  cloud
+Docker
+setup.py
+
+
+ 
